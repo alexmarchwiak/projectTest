@@ -1,0 +1,8 @@
+[user]
+	email = jenkins@agb.rbxd.ds
+	name = jenkins
+[https]
+	proxy = http://10.52.110.100:3128/
+[credential]
+	helper = cache
+	helper = cache
